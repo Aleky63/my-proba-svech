@@ -125,7 +125,7 @@
     background-size: cover;
   }
   .top {
-    padding: 2% 0 23% 2%;
+    padding: 2% 0 22% 2%;
   }
   .top__content {
     width: 230px;
@@ -478,7 +478,7 @@
     padding: 14px;
     margin-top: 16px;
   }
-  
+
   .form__input::placeholder {
     font-size: 10px;
   }
@@ -628,5 +628,4 @@
     margin: 0 auto;
     width: 1200px;
   }
-  
 }
