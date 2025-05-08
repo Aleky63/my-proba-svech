@@ -10,22 +10,22 @@ const swiperOne = new Swiper(".feedback__slider", {
 
   pagination: {
     el: ".swiper-pagination",
-    type: 'bullets',
-    clickable:true,
+    type: "bullets",
+    clickable: true,
   },
 });
 
 const swiperTwo = new Swiper(".certificates__slider", {
   loop: true,
   slidesPerView: 3,
-  spaceBetween: 18,
+  spaceBetween: 16,
   pagination: {
     el: ".swiper-pagination",
-    type: 'bullets',
-    clickable:true,
+    type: "bullets",
+    clickable: true,
   },
   breakpoints: {
-    480: {
+    460: {
       slidesPerView: 2,
     },
     360: {
@@ -33,7 +33,6 @@ const swiperTwo = new Swiper(".certificates__slider", {
     },
   },
 });
-
 
 const accordion = document.querySelector(".accordion");
 const accordionTitles = accordion.querySelectorAll(".accordion__title");
