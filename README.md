@@ -2,4 +2,4 @@
 
 учебный сайт проба
 
-<!-- https://www.youtube.com/watch?v=onZV8QqH76g -->
+https://www.youtube.com/watch?v=onZV8QqH76g
